@@ -1,6 +1,5 @@
 # Number-Guessing-Game-Project
 This is the step-by-step explanation of what the code does:
-
 1)It imports the random module for generating random numbers and the math module for mathematical calculations.
 
 2) The user is prompted to enter the lower bound of the range of numbers to guess.
